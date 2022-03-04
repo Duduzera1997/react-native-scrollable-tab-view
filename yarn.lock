@@ -859,9 +859,9 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
 
-"react-native-pager-view@git+https://github.com/kyunkakata/react-native-pager-view.git#fix-android-intialpage":
-  version "5.4.11"
-  resolved "git+https://github.com/kyunkakata/react-native-pager-view.git#99d60741287715c45a8b4e1c30b85b13368e1e6f"
+"react-native-pager-view@git+https://github.com/JackClown/react-native-pager-view#master":
+  version "5.4.0"
+  resolved "git+https://github.com/JackClown/react-native-pager-view#b62a7605b4060664032d7a8b5ad58ea80cd90753"
 
 react-timer-mixin@^0.13.3:
   version "0.13.4"
